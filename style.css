@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+#topBar {
+  background-image: url('img/logo.png');
+  background-repeat: no-repeat;
+  background-size: 125px 125px;
+  background-position: center top;
+  background-color: green;
+}
+nav {
+  text-align: center;
+  padding-top: 115px;
+}
+nav a {
+  text-decoration: none;
+  color: black;
+  font-size: 28px;
+  font-family: sans-serif;
+  padding: 10px 20px;
+}
